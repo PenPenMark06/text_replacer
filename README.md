@@ -1,0 +1,2 @@
+# text_replacer
+This is a chrome extension that replaces the specific occurrence of the word in the website with a link to a different website. More specifically, this particular implementation replaces all the occurrence of Synonyms of "Boobs" with a link to pornhub.com. As a man, I know how guys get horny whenever they see a word "boob", therefore, this extension will save your time typing pornhub.com in the searching bar.
