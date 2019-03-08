@@ -10,7 +10,7 @@
  */
 
 var elements = document.getElementsByTagName('*');
-var regex = /Porn | Boobs | Breast | Chest | Oppai/gi;
+var regex = /Porn | Boobs | Breast | Chest | Oppai | Kyonyu | hinyu | Nipple | Boobie | Yuwa/gi;
 
 Array.from(elements).forEach((element) => {
     element.childNodes.forEach((child) => {
